@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.headingDiv {
+    background-image: url('../img/pattern.jpeg');
+}
+
+.mainHeading {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.subHeading {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.subGreen {
+    background-color: mediumspringgreen;
+}
+
+.subRed {
+    background-color: lightcoral;
+}
+
+.subBlue {
+    background-color: skyblue;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
